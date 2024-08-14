@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://gauss-componentotacostmanual-cn.allawnfs.com/remove-c25b3511288ef50452c6264e17300568/component-ota/24/03/22/661fc1867bf04a1aaeda710bc2c06efb.zip
-  ROM_NAME: ColorOS
+  ROM_URL: https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.1.0.UNMCNXM/manet_images_OS1.0.1.0.UNMCNXM_20231110.0000.00_14.0_cn_710ca6907d.tgz
+  ROM_NAME: HyperOS
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
